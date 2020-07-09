@@ -1,0 +1,15 @@
+{
+  "name": "snail-kata",
+  "version": "1.0.0",
+  "description": "Given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise.",
+  "main": "snail.js",
+  "scripts": {
+    "test": "jasmine snail.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
